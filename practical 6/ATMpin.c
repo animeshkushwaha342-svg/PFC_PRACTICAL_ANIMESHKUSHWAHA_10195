@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main()
 {
     // Animeshkushwaha_10195
